@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>梁书彤的计算机导论作业</title>
+</head>
+<body>
+	
+<big><big> <big> 1、计算机各学科关系图 </big> </big></big><br/>	
+<p><img src="img/1.jpg"  alt="" class="lazy"/></p>
+
+<big><big> <big> 2、参考资料 </big> </big></big>
+<br/>
+<big><big><p>网站</p></big></big>
+<big><img src="img/3.jpg" style="float:left" alt="" class="lazy"/ width="60" height="45"> <a href="https://www.runoob.com">菜鸟教程</a></big>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp菜鸟教程是一个拥有众多计算机方面知识的教学网站，在其中，你可以对感兴趣的计算机内容进行自学。 </p>
+<br/>
+<big> <img src="img/2.jpg" style="float:left" alt="" class="lazy"/ width="60" height="45"><a href="https://www.csdn.net/" width="60" height="45">CSDN社区</a> </big>
+<p>CSDN社区致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务。在其中，你可以与网友们交流编程经验、心得。 </p>
+<br/>
+<big> <img src="img/4.jpg" style="float:left" alt="" class="lazy"/ width="60" height="45"><a href="https://github.com">Github</a> </big>
+<p>在Github上，你可以找到各种各样你想要的资源，当然包括各种软件及其源代码，利用好这个网站，我们将能够很轻松的搜集我们需要的资源。 </p>
+<br/>
+<big> <img src="img/8.jpg" style="float:left" alt="" class="lazy"/ width="60" height="45"><a href="https://www.w3school.com.cn/">W3school</a> </big>
+<p>W3school拥有领先的Web技术教程，在w3school，你可以找到你所需要的所有的网站建设教程，包括从基础的 HTML 到 CSS，乃至进阶的XML、SQL、JS、PHP 和 ASP.NET。</p>
+<br/>
+
+<big><big><p>书籍</p></big></big>
+<big> <img src="img/5.jpg"  alt="" class="lazy"/ width="60" height="45"><a href="https://item.jd.com/12965908.html">数据结构（C语言版）/清华大学计算机系列教材</a> </big>
+<br/>
+<br/>
+<big> <img src="img/6.jpg"  alt="" class="lazy"/ width="60" height="55"><a href="https://item.jd.com/1047063653.html?cu=true&utm_source=www.zhihu.com&utm_medium=tuiguang&utm_campaign=t_1001542270_1001892539_0_1911387173&utm_term=f177ef8386c8469bb11735407838014e">算法导论第三版</a> </big>
+<br/>
+<br/>
+<big> <img src="img/7.jpg"  alt="" class="lazy"/ width="60" height="55"><a href="https://item.jd.com/10058776.html?cu=true&utm_source=www.zhihu.com&utm_medium=tuiguang&utm_campaign=t_1001542270_1001892539_0_1911387173&utm_term=60690054a66a4c3a99377b0659d55381">编译原理第二版</a> </big>
+<br/>
+<br/>
+
+<big><big> <big> 3、对计算机专业认识 </big> </big></big>
+<p>
+&nbsp&nbsp&nbsp&nbsp 计算机专业在任何高效的发展中都有不可代替的基础作用，所以即使是不就读计算机专业的学生，计算机课程也是必须掌握的，作为计算机专业学生的我们必须对计算机有更专业而全面地认识，计算机的知识结构包括：计算机历史、网络、操作系统、语言、算法、数据、数据库、软件工程、安全等。全面了解计算机领域的专业知识、最新发展及应用，对今后要学习的主要知识、专业方向有一个基本了解，为后续课程构建一个基本知识框架，为以后学习和掌握专业知识，进行科学研究貫定基础。
+<br/>&nbsp&nbsp&nbsp&nbsp 21世纪逐渐向着全球信息化社会发展，一个国家的强大很大程度上取决于信息技术是否强大，计算机专业有着非常广阔的发展前景，中国的专业知识更大化的与外国的先进知识交融，计算机专业很独特，他为我们创造了一个虚拟的王国，在这里你可以充分发挥个人的能力，它在深度广度宽度上都有很宽的拓展空间，围绕硬件系统，大量软件系统被开发，并深入应用。计算机技术逐渐向各个领域渗透，互联网的普及更推动着信息化社会的加速发展。我们处在一个物质精神都异常丰富的年代。而总有一天计算机技术将会覆盖全球，对于掌握了这些技术的我们应该有一种自豪感，因为计算机专业是这样一个富有生命力的学科。
+<br/>&nbsp&nbsp&nbsp&nbsp 要学好计算机这个具有无限发展前景的专业，需要的是肯于动脑、不断钻研的精神和毅力。计算机软件知识的相关课程有： c 语言程序设计、 Internet 网页设计、 visual c ++、电路电子技术、计算机网络、计算机应用基础、计算机组成原理、离散数学、面向对象 c +＋实现、软件工程、数据结构、网络技术基础等。在这些课程之中，我目前只接触过 C 语言程序设计，从这可以看出，自己在计算机这方面的知识还是很少的，要想学好计算机这门专业课程，这些知识是必不可少的。我们应该在今后的学习中认真的去对待，用我们的激情去对待，我相信通过自身不断地努力，一定能把计算机这个专业学好。
+</p>
+
+<big><big> <big> 4、学业规划 </big> </big></big>
+<p>
+<big>&nbsp&nbsp 大二：<br/></big>
+&nbsp&nbsp 1．绩点保持在年纪前列，并且能够稳定前进，尽量不要有退步。<br/>
+&nbsp&nbsp 2．一定要有一次社会实践，去体验社会。如“三下乡”。<br/>
+&nbsp&nbsp 3．在大三前尽量参加一些比赛，将自己的理论知识付之于实践。<br/>
+&nbsp&nbsp 4．深入了解计算机专业的就业形势，对自己的目标要更加清晰。<br/>
+&nbsp&nbsp 5.  积极参加各大企业阿里，百度，腾讯等举办的线下大赛，积累经验；参加腾飞杯项目，数学建模，大学生创新创业大赛以及互联网+比赛；<br/><br/>
+<big>&nbsp&nbsp 大三：<br/></big>
+&nbsp&nbsp 1.希望有机会各大公司实习，锻炼，最好得到公司的认可。<br/>
+&nbsp&nbsp 2.  熟练掌握面向对象编程思想，熟练掌握C++语言和数据库；<br/>
+&nbsp&nbsp 3．绩点继续保持在年纪前列，尽量保研。<br/><br/>
+<big>&nbsp&nbsp 大四：<br/></big>
+&nbsp&nbsp 1.  若保研成功，则积极与老师交流，了解就业形势，职业最新需求，在研究生生涯中，向着前沿的方向学习。<br/>
+&nbsp&nbsp 2．若保研失败则要准备考研。<br/><br/>
+
+
+</p>
+
+</body>
+</html>
